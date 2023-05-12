@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    background-color: rgb(240, 240, 240);
+
+}
+
+header {
+    background-color: rgb(59, 59, 59);
+    padding: 5px;
+    color: white;
+}
+
+main{
+   margin: 10px;
+}
+
+footer {
+    background-color: rgb(59, 59, 59);
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+
+section {
+    display: flex; 
+    margin: 10px;
+}
+
+.dados{
+    text-align: left;
+}
+
+.poue{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+.sobreEu{
+    padding: 10px;
+    height: 200px;
+    width: 900px;
+    overflow: auto;
+}
+.articles{
+    margin: 10px;       
+}
+.skils{
+    padding: 20px;
+    text-align: justify;
+}
+.MimSkills{
+    margin: 20px;
+
+}
